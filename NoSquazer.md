@@ -1,6 +1,5 @@
 <h1 align="center">Hey there 👋! I am Joaquin</h1>
-<h3 align="center">Entre Rios, Argentina 🌎</h3><br/>
-
+<h3 align="center">A Back-End Web Developer from Argentina. 🧉👨‍💻</h3>
 
 <h2>About me<h2/>
 <p>
