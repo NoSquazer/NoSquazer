@@ -3,10 +3,13 @@
 
 <h2>About me<h2/>
 <p>
-I am passionate about staying up-to-date with trending news in the tech world. 
-  My educational background is rooted in Fullstack development; however, my personal inclination leans towards the realm of backend development. 
-  My coding philosophy centers around upholding clean code and adhering to best practices. 
-  I firmly believe that well-structured code leads to superior outcomes.
+I am a Full Stack Web Developer graduated from Henry, with a
+specialization in Back-End and professional experience gained through an
+internship at a startup. During my internship, I acquired knowledge in
+architecture, implementation, and optimization. I am known for my positive
+attitude and ability to adapt easily.
+My coding philosophy centers around upholding clean code and adhering to best practices. 
+I firmly believe that well-structured code leads to superior outcomes.
 <p/>
 
   <br/>
