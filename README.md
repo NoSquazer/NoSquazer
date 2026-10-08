@@ -2,7 +2,7 @@
 
 Python engineer focused on web scraping and data extraction, with backend experience in FastAPI and Celery.
 
-For the past 3 years I've been responsible for all scraping at Reputacion Digital: 10+ production scrapers collecting about 1 million records per day from dynamic, anti-bot-protected platforms. That work is private, so what you see here are side projects and technical challenges.
+For the past 3 years I've been responsible for all scraping at Reputacion Digital: 10+ production scrapers collecting about 2 million records per day from dynamic, anti-bot-protected platforms. That work is private, so what you see here are side projects and technical challenges.
 
 **Open to:** web scraping, data extraction and Python backend roles at startups, remote or in France.
 
